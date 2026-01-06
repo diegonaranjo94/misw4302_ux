@@ -99,3 +99,21 @@ The web app is a template Angular project generated with Angular CLI 18.2.4. It 
 - Both projects are independent and can be developed or deployed separately.
 - For more details, see the README files inside each project folder.
 
+## License
+- See the `LICENSE` file in the project root.
+
+---
+## 📞 Connect with me:
+<div>
+  <p align="center">
+  <a href="https://www.linkedin.com/in/diegonaranjo94/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imorange" height="30" width="40" />
+    </a>
+  <a href="https://www.instagram.com/diegonaranjo.94/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imorange" height="30" width="40" />
+    </a>
+  <a href="https://github.com/diegonaranjo94" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="imorange" height="30" width="40" />
+    </a>
+  </p>
+</div>
