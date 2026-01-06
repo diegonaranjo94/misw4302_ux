@@ -87,7 +87,7 @@ This is a web application built with **Angular 18** and **TypeScript**. The proj
    ```
    Open your browser at [http://localhost:4200](http://localhost:4200) to view the app.
 6. **Lazy Run:**
-   - Visit the following [Link](https://www.figma.com/proto/Ew9s47fZBdySPtyGzMVIly/User-Expirience-Project?node-id=89-3183&t=wGix5spPQWINLYXS-1&starting-point-node-id=89%3A3162) To check the prototype
+   - Visit the following [Link](https://www.figma.com/proto/Ew9s47fZBdySPtyGzMVIly/User-Expirience-Project?node-id=89-3162&t=wGix5spPQWINLYXS-1&starting-point-node-id=89%3A3162) To check the prototype
 
 #### Project Overview
 The web app is a template Angular project generated with Angular CLI 18.2.4. It includes basic configuration and can be used as a starting point for building browser-based applications.
